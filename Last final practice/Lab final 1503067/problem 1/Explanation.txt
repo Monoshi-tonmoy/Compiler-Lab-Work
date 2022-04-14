@@ -1,0 +1,15 @@
+Here a simple input.c file is compiled step by step
+
+to generate preprocessing file
+command: gcc -E input.c -o input.i
+
+to generate assembly file
+Command: gcc -S input.c
+
+to generate object file
+command: gcc input.c -o input.o
+
+to generate obj file
+command: objdump
+
+

@@ -1,0 +1,4 @@
+-----------Sym Table------------
+Name: c, Type: 1
+Name: k, Type: 1
+Name: i, Type: 1

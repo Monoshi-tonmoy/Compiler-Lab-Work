@@ -1,0 +1,23 @@
+10
+inserting a in symtab and its address = 0
+Type missmatch,inserting int value in double variable
+inserting b in symtab and its address = 1
+Type missmatch,inserting double value in integer variable
+5
+inserting c in symtab and its address = 2
+Type missmatch,inserting int value in double variable
+inserting d in symtab and its address = 3
+------------Checking assignments----------
+Wrong assignment,type missmatch
+------------Checking assignments----------
+Wrong assignment,type missmatch
+Parsing finished!
+
+Here is the symbol table
+
+
+-----------Sym Table------------
+Name: d, Type: 2
+Name: c, Type: 2
+Name: b, Type: 1
+Name: a, Type: 2

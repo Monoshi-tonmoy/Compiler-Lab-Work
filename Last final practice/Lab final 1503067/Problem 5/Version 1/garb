@@ -1,0 +1,7 @@
+constant: ICONST {$$=INT_TYPE;} | FCONST {$$=REAL_TYPE;} | CCONST {$$=CHAR_TYPE;} ;
+
+
+names: ASSIGN expression 
+{
+	$$ = $2;
+};
